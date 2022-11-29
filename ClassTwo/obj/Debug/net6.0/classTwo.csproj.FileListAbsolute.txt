@@ -1,0 +1,15 @@
+/home/samuel/Classes/classTwo/obj/Debug/net6.0/classTwo.csproj.AssemblyReference.cache
+/home/samuel/Classes/classTwo/obj/Debug/net6.0/classTwo.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Classes/classTwo/obj/Debug/net6.0/classTwo.AssemblyInfoInputs.cache
+/home/samuel/Classes/classTwo/obj/Debug/net6.0/classTwo.AssemblyInfo.cs
+/home/samuel/Classes/classTwo/obj/Debug/net6.0/classTwo.csproj.CoreCompileInputs.cache
+/home/samuel/Classes/classTwo/bin/Debug/net6.0/classTwo
+/home/samuel/Classes/classTwo/bin/Debug/net6.0/classTwo.deps.json
+/home/samuel/Classes/classTwo/bin/Debug/net6.0/classTwo.runtimeconfig.json
+/home/samuel/Classes/classTwo/bin/Debug/net6.0/classTwo.dll
+/home/samuel/Classes/classTwo/bin/Debug/net6.0/classTwo.pdb
+/home/samuel/Classes/classTwo/obj/Debug/net6.0/classTwo.dll
+/home/samuel/Classes/classTwo/obj/Debug/net6.0/refint/classTwo.dll
+/home/samuel/Classes/classTwo/obj/Debug/net6.0/classTwo.pdb
+/home/samuel/Classes/classTwo/obj/Debug/net6.0/classTwo.genruntimeconfig.cache
+/home/samuel/Classes/classTwo/obj/Debug/net6.0/ref/classTwo.dll

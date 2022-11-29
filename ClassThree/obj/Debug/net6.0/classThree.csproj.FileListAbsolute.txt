@@ -1,0 +1,15 @@
+/home/samuel/Classes/classThree/obj/Debug/net6.0/classThree.csproj.AssemblyReference.cache
+/home/samuel/Classes/classThree/obj/Debug/net6.0/classThree.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Classes/classThree/obj/Debug/net6.0/classThree.AssemblyInfoInputs.cache
+/home/samuel/Classes/classThree/obj/Debug/net6.0/classThree.AssemblyInfo.cs
+/home/samuel/Classes/classThree/obj/Debug/net6.0/classThree.csproj.CoreCompileInputs.cache
+/home/samuel/Classes/classThree/bin/Debug/net6.0/classThree
+/home/samuel/Classes/classThree/bin/Debug/net6.0/classThree.deps.json
+/home/samuel/Classes/classThree/bin/Debug/net6.0/classThree.runtimeconfig.json
+/home/samuel/Classes/classThree/bin/Debug/net6.0/classThree.dll
+/home/samuel/Classes/classThree/bin/Debug/net6.0/classThree.pdb
+/home/samuel/Classes/classThree/obj/Debug/net6.0/classThree.dll
+/home/samuel/Classes/classThree/obj/Debug/net6.0/refint/classThree.dll
+/home/samuel/Classes/classThree/obj/Debug/net6.0/classThree.pdb
+/home/samuel/Classes/classThree/obj/Debug/net6.0/classThree.genruntimeconfig.cache
+/home/samuel/Classes/classThree/obj/Debug/net6.0/ref/classThree.dll

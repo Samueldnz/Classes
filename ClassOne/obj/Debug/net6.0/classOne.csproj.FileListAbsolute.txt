@@ -1,0 +1,15 @@
+/home/samuel/Classes/classOne/bin/Debug/net6.0/classOne
+/home/samuel/Classes/classOne/bin/Debug/net6.0/classOne.deps.json
+/home/samuel/Classes/classOne/bin/Debug/net6.0/classOne.runtimeconfig.json
+/home/samuel/Classes/classOne/bin/Debug/net6.0/classOne.dll
+/home/samuel/Classes/classOne/bin/Debug/net6.0/classOne.pdb
+/home/samuel/Classes/classOne/obj/Debug/net6.0/classOne.csproj.AssemblyReference.cache
+/home/samuel/Classes/classOne/obj/Debug/net6.0/classOne.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Classes/classOne/obj/Debug/net6.0/classOne.AssemblyInfoInputs.cache
+/home/samuel/Classes/classOne/obj/Debug/net6.0/classOne.AssemblyInfo.cs
+/home/samuel/Classes/classOne/obj/Debug/net6.0/classOne.csproj.CoreCompileInputs.cache
+/home/samuel/Classes/classOne/obj/Debug/net6.0/classOne.dll
+/home/samuel/Classes/classOne/obj/Debug/net6.0/refint/classOne.dll
+/home/samuel/Classes/classOne/obj/Debug/net6.0/classOne.pdb
+/home/samuel/Classes/classOne/obj/Debug/net6.0/classOne.genruntimeconfig.cache
+/home/samuel/Classes/classOne/obj/Debug/net6.0/ref/classOne.dll
