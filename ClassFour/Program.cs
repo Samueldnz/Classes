@@ -6,11 +6,9 @@ namespace ClassFour
     {
         public static void Main(string[] args)
         {
-            int resultado = soma(1, 3);
-        }
-
-        public  static int soma(int a, int b){
-            return a + b;
+            int resultado = Arithmetic.soma(1, 2);
+            Console.WriteLine(resultado);
+            
         }
     }
 }
