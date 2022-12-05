@@ -2,8 +2,9 @@ using System;
 
 public class Arithmetic{
 
-    public static int soma(int a, int b){
-        return a + b;
+    public static int somar4seguidas(int a, int b){
+        
+        return 0;
     }
 
 }
