@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/samuel/Classes/classOne/classOne.csproj": {}
+    "/home/samuel/Classes/ClassOne/classOne.csproj": {}
   },
   "projects": {
-    "/home/samuel/Classes/classOne/classOne.csproj": {
+    "/home/samuel/Classes/ClassOne/classOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/samuel/Classes/classOne/classOne.csproj",
+        "projectUniqueName": "/home/samuel/Classes/ClassOne/classOne.csproj",
         "projectName": "classOne",
-        "projectPath": "/home/samuel/Classes/classOne/classOne.csproj",
+        "projectPath": "/home/samuel/Classes/ClassOne/classOne.csproj",
         "packagesPath": "/home/samuel/.nuget/packages/",
-        "outputPath": "/home/samuel/Classes/classOne/obj/",
+        "outputPath": "/home/samuel/Classes/ClassOne/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/samuel/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }

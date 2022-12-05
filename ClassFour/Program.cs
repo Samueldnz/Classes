@@ -6,63 +6,24 @@ namespace ClassFour
     {
         public static void Main(string[] args)
         {
-            int a = 20;
-            int b = 10;
+            Console.WriteLine("Bem Vindo a Calculadora do Miguel");
 
-            Console.WriteLine("Testando somente positivos");
-            int resultado = Soma(a, b); //30
-            Console.WriteLine(resultado);
+            Console.WriteLine("Insira um valor: ");
+            int a = int.Parse(Console.ReadLine());
+            Console.WriteLine("Insira um valor: ");
+            int b = int.Parse(Console.ReadLine());
+
+            int resultado = Soma(a, b); 
+            Console.WriteLine("Soma: {0}", resultado);
 
             resultado = Subtracao(a, b);
-            Console.WriteLine(resultado); //10
+            Console.WriteLine("Subtracao: {0}", resultado); 
 
             resultado = Multiplicacao(a, b);
-            Console.WriteLine(resultado); //200
+            Console.WriteLine("Multiplicação: {0}", resultado); 
 
             resultado = Divisao(a, b);
-            Console.WriteLine(resultado); //2
-
-
-            Console.WriteLine("Testando negativos");
-            resultado = Soma(20, -10);
-            Console.WriteLine(resultado); //10
-
-            resultado = Subtracao(20, -10);
-            Console.WriteLine(resultado); //30
-
-            resultado = Multiplicacao(20, -10);
-            Console.WriteLine(resultado); //-200
-
-            resultado = Divisao(20, -10);
-            Console.WriteLine(resultado); //-2
-
-
-            Console.WriteLine("Testando somente negativos");
-            resultado = Soma(-20, -10); 
-            Console.WriteLine(resultado); //-30
-
-            resultado = Subtracao(-20, -10);
-            Console.WriteLine(resultado); //-10
-
-            resultado = Multiplicacao(-20, -10);
-            Console.WriteLine(resultado); //200
-
-            resultado = Divisao(-20, -10);
-            Console.WriteLine(resultado); //2
-
-
-            Console.WriteLine("Testando com 0");
-            resultado = Soma(20, 0); 
-            Console.WriteLine(resultado); //20
-
-            resultado = Subtracao(20, 0);
-            Console.WriteLine(resultado); //20
-
-            resultado = Multiplicacao(20, 0);
-            Console.WriteLine(resultado); //0
-
-            resultado = Divisao(20, 0);
-            Console.WriteLine(resultado); //ERRO
+            Console.WriteLine("Divisão: {0}", resultado); 
 
             // Console.WriteLine(Soma(3625, 6434, 4342, 42342));
         }

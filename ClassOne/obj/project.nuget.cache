@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OKuDiFWICY66qEiFZAjL9u0TtMuFbjXidFqV3NFZpHhVKIBnE2gaY9ovNHobkdtyiCnCXiajkwNbxj6XJp73EQ==",
+  "dgSpecHash": "SmC7Ldb1Iy24eLNotdWRwUd9XWe5A/wOTLNUJ7iMyHxfW4WlJW7Z+AUsn15pxG5rfBPqg+yttzSk5uiDi1vbDQ==",
   "success": true,
-  "projectFilePath": "/home/samuel/Classes/classOne/classOne.csproj",
+  "projectFilePath": "/home/samuel/Classes/ClassOne/classOne.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
