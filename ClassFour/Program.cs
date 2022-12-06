@@ -6,13 +6,15 @@ namespace ClassFour
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Bem Vindo a Calculadora do Miguel");
+            Console.WriteLine("Bem Vindo a Calculadora!");
 
+            Console.Write("\n");
             Console.WriteLine("Insira um valor: ");
             int a = int.Parse(Console.ReadLine());
             Console.WriteLine("Insira um valor: ");
             int b = int.Parse(Console.ReadLine());
 
+            Console.Write("\n");
             int resultado = Soma(a, b); 
             Console.WriteLine("Soma: {0}", resultado);
 
@@ -51,8 +53,7 @@ namespace ClassFour
 
         private static int Divisao(int a, int b){
             if(b == 0){
-                Console.WriteLine("O valor do Denominador é 0");
-                return 0;     //TOTALMENTE ERRADO!!! É só pra rodar mesmo
+                return 0;     //TOTALMENTE ERRADO!!! Apenas didático para a aula atual
             } else{
                 return a/b;
             }
