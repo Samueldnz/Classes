@@ -6,37 +6,47 @@ namespace ClassFour
     {
         public static void Main(string[] args)
         {
+            bool looping = false;
+
             Console.WriteLine("Bem Vindo a Calculadora!");
 
             Console.Write("\n");
             Console.WriteLine("Insira um valor: ");
-            int a = int.Parse(Console.ReadLine());
+            double a = double.Parse(Console.ReadLine());
             Console.WriteLine("Insira um valor: ");
-            int b = int.Parse(Console.ReadLine());
+            double b = double.Parse(Console.ReadLine());
 
-            Console.Write("\n");
-            int resultado = Soma(a, b); 
-            Console.WriteLine("Soma: {0}", resultado);
+            if(b == 0){
+                Console.Write("\n");
+                double resultado = Soma(a, b); 
+                Console.WriteLine("Soma: {0}", resultado);
 
-            resultado = Subtracao(a, b);
-            Console.WriteLine("Subtracao: {0}", resultado); 
+                resultado = Subtracao(a, b);
+                Console.WriteLine("Subtracao: {0}", resultado); 
 
-            resultado = Multiplicacao(a, b);
-            Console.WriteLine("Multiplicação: {0}", resultado); 
+                resultado = Multiplicacao(a, b);
+                Console.WriteLine("Multiplicação: {0}", resultado); 
+                
+            }else{
 
-            resultado = Divisao(a, b);
-            Console.WriteLine("Divisão: {0}", resultado); 
+                Console.Write("\n");
+                double resultado = Soma(a, b); 
+                Console.WriteLine("Soma: {0}", resultado);
 
+                resultado = Subtracao(a, b);
+                Console.WriteLine("Subtracao: {0}", resultado); 
+
+                resultado = Multiplicacao(a, b);
+                Console.WriteLine("Multiplicação: {0}", resultado); 
+
+                resultado = Divisao(a, b);
+                Console.WriteLine("Divisão: {0}", resultado);
+            }
             // Console.WriteLine(Soma(3625, 6434, 4342, 42342));
         }
 
-        //Somente para exemplicar um retorno void
-        public static void Nada(){
-            Console.WriteLine("Nada");
-        }
-
-        public static int Soma(int a, int b){
-            int resultado = a + b;
+        public static double Soma(double a, double b){
+            double resultado = a + b;
             return resultado;
         }
 
@@ -47,19 +57,15 @@ namespace ClassFour
 
         // private static int Soma(int a, int b, int c, int d) => a + b + c + d; 
 
-        public static int Subtracao(int a, int b){
+        public static double Subtracao(double a, double b){
             return a - b;
         }
 
-        private static int Divisao(int a, int b){
-            if(b == 0){
-                return 0;     //TOTALMENTE ERRADO!!! Apenas didático para a aula atual
-            } else{
-                return a/b;
-            }
+        private static double Divisao(double a, double b){
+            return a/b;
         }
 
-        private static int Multiplicacao(int a, int b) => a*b;
+        private static double Multiplicacao(double a, double b) => a*b;
 
     }
 }

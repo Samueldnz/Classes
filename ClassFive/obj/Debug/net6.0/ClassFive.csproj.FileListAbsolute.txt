@@ -1,0 +1,15 @@
+/home/samuel/Classes/ClassFive/bin/Debug/net6.0/ClassFive
+/home/samuel/Classes/ClassFive/bin/Debug/net6.0/ClassFive.deps.json
+/home/samuel/Classes/ClassFive/bin/Debug/net6.0/ClassFive.runtimeconfig.json
+/home/samuel/Classes/ClassFive/bin/Debug/net6.0/ClassFive.dll
+/home/samuel/Classes/ClassFive/bin/Debug/net6.0/ClassFive.pdb
+/home/samuel/Classes/ClassFive/obj/Debug/net6.0/ClassFive.csproj.AssemblyReference.cache
+/home/samuel/Classes/ClassFive/obj/Debug/net6.0/ClassFive.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Classes/ClassFive/obj/Debug/net6.0/ClassFive.AssemblyInfoInputs.cache
+/home/samuel/Classes/ClassFive/obj/Debug/net6.0/ClassFive.AssemblyInfo.cs
+/home/samuel/Classes/ClassFive/obj/Debug/net6.0/ClassFive.csproj.CoreCompileInputs.cache
+/home/samuel/Classes/ClassFive/obj/Debug/net6.0/ClassFive.dll
+/home/samuel/Classes/ClassFive/obj/Debug/net6.0/refint/ClassFive.dll
+/home/samuel/Classes/ClassFive/obj/Debug/net6.0/ClassFive.pdb
+/home/samuel/Classes/ClassFive/obj/Debug/net6.0/ClassFive.genruntimeconfig.cache
+/home/samuel/Classes/ClassFive/obj/Debug/net6.0/ref/ClassFive.dll
