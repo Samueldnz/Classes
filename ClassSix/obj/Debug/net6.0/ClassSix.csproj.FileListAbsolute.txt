@@ -1,0 +1,15 @@
+/home/samuel/Classes/ClassSix/bin/Debug/net6.0/ClassSix
+/home/samuel/Classes/ClassSix/bin/Debug/net6.0/ClassSix.deps.json
+/home/samuel/Classes/ClassSix/bin/Debug/net6.0/ClassSix.runtimeconfig.json
+/home/samuel/Classes/ClassSix/bin/Debug/net6.0/ClassSix.dll
+/home/samuel/Classes/ClassSix/bin/Debug/net6.0/ClassSix.pdb
+/home/samuel/Classes/ClassSix/obj/Debug/net6.0/ClassSix.csproj.AssemblyReference.cache
+/home/samuel/Classes/ClassSix/obj/Debug/net6.0/ClassSix.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Classes/ClassSix/obj/Debug/net6.0/ClassSix.AssemblyInfoInputs.cache
+/home/samuel/Classes/ClassSix/obj/Debug/net6.0/ClassSix.AssemblyInfo.cs
+/home/samuel/Classes/ClassSix/obj/Debug/net6.0/ClassSix.csproj.CoreCompileInputs.cache
+/home/samuel/Classes/ClassSix/obj/Debug/net6.0/ClassSix.dll
+/home/samuel/Classes/ClassSix/obj/Debug/net6.0/refint/ClassSix.dll
+/home/samuel/Classes/ClassSix/obj/Debug/net6.0/ClassSix.pdb
+/home/samuel/Classes/ClassSix/obj/Debug/net6.0/ClassSix.genruntimeconfig.cache
+/home/samuel/Classes/ClassSix/obj/Debug/net6.0/ref/ClassSix.dll
